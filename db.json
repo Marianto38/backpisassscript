@@ -1,0 +1,22 @@
+{
+    "pizzas": [
+      {
+        "id": 1,
+        "name": "Pizza super especial para frontends",
+        "price": 99,
+        "img": ""
+      }
+    ],
+
+    "users": [
+        {
+            "id": 1,
+            "username": "cris123",
+            "nickname": "Cris",
+            "password": "123456",
+            "fullName": "Cristian Cartagena",
+            "creditCard": "5555555555"
+        }
+    ]
+
+}

@@ -4,7 +4,7 @@
         "id": 1,
         "name": "Pizza super especial para frontends",
         "price": 99,
-        "img": ""
+        "img": "https://res.cloudinary.com/didyub2vb/image/upload/v1685737073/fondo-login.jpg"
       }
     ],
 

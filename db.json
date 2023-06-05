@@ -1,22 +1,82 @@
 {
-    "pizzas": [
-      {
-        "id": 1,
-        "name": "Pizza super especial para frontends",
-        "price": 99,
-        "img": "https://res.cloudinary.com/didyub2vb/image/upload/v1685737073/fondo-login.jpg"
-      }
-    ],
-
-    "users": [
-        {
-            "id": 1,
-            "username": "cris123",
-            "nickname": "Cris",
-            "password": "123456",
-            "fullName": "Cristian Cartagena",
-            "creditCard": "5555555555"
-        }
-    ]
-
+  "pizzas": [
+    {
+      "id": 1,
+      "name": "Pizza super especial para frontends",
+      "price": 99,
+      "img": "https://res.cloudinary.com/didyub2vb/image/upload/v1685737073/fondo-login.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "cris123",
+      "nickname": "Cris",
+      "password": "Password1!",
+      "fullName": "Cristian Cartagena"
+    },
+    {
+      "id": 2,
+      "username": "natamr26",
+      "nickname": "NataMr",
+      "password": "Password2!",
+      "fullName": "Natalia Maldonado"
+    },
+    {
+      "id": 3,
+      "username": "jhonmario",
+      "nickname": "Mario",
+      "password": "Password3!",
+      "fullName": "Jhon Cartagena"
+    },
+    {
+      "id": 4,
+      "username": "marianto38",
+      "nickname": "Marianto",
+      "password": "Password4!",
+      "fullName": "Maria Pereira"
+    },
+    {
+      "id": 5,
+      "username": "user5",
+      "nickname": "Michael",
+      "password": "Password5!",
+      "fullName": "Michael Brown"
+    },
+    {
+      "id": 6,
+      "username": "user6",
+      "nickname": "Sophia",
+      "password": "Password6!",
+      "fullName": "Sophia Wilson"
+    },
+    {
+      "id": 7,
+      "username": "user7",
+      "nickname": "Daniel",
+      "password": "Password7!",
+      "fullName": "Daniel Taylor"
+    },
+    {
+      "id": 8,
+      "username": "user8",
+      "nickname": "Oli",
+      "password": "Password8!",
+      "fullName": "Olivia Martinez"
+    },
+    {
+      "id": 9,
+      "username": "user9",
+      "nickname": "Liam",
+      "password": "Password9!",
+      "fullName": "Liam Anderson"
+    },
+    {
+      "id": 10,
+      "username": "user10",
+      "nickname": "Ava",
+      "password": "Password10!",
+      "fullName": "Ava Thompson"
+    }
+  ]
 }

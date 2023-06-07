@@ -4,41 +4,41 @@
       "id": 1,
       "name": "Pizza super especial para frontends",
       "price": 99,
-      "img": [
-        "https://res.cloudinary.com/didyub2vb/image/upload/v1686108753/pizza-4_sl0ppw.jpg",
-        "https://res.cloudinary.com/didyub2vb/image/upload/v1686108753/pizza-6_miqoze.jpg",
-        "https://res.cloudinary.com/didyub2vb/image/upload/v1686108753/pizza-2_pxksp3.jpg"
-      ]
+      "img": {
+        "one": "https://res.cloudinary.com/didyub2vb/image/upload/v1686108753/pizza-4_sl0ppw.jpg",
+        "two": "https://res.cloudinary.com/didyub2vb/image/upload/v1686108753/pizza-6_miqoze.jpg",
+        "three": "https://res.cloudinary.com/didyub2vb/image/upload/v1686108753/pizza-2_pxksp3.jpg"
+      }
     },
     {
       "id": 2,
       "name": "Javascript + React Pizza",
       "price": 129,
-      "img": [
-        "https://res.cloudinary.com/didyub2vb/image/upload/v1686108753/pizza-5_tti05n.jpg",
-        "https://res.cloudinary.com/didyub2vb/image/upload/v1685745486/pizza-1.jpg",
-        "https://res.cloudinary.com/didyub2vb/image/upload/v1686108753/pizza-3_qwgusc.jpg"
-      ]
+      "img": {
+        "one": "https://res.cloudinary.com/didyub2vb/image/upload/v1686108753/pizza-5_tti05n.jpg",
+        "two": "https://res.cloudinary.com/didyub2vb/image/upload/v1685745486/pizza-1.jpg",
+        "three": "https://res.cloudinary.com/didyub2vb/image/upload/v1686108753/pizza-3_qwgusc.jpg"
+       }
     },
     {
       "id": 3,
       "name": "Master CSS Pizza",
       "price": 89,
-      "img": [
-        "https://res.cloudinary.com/didyub2vb/image/upload/v1686111554/pizza-7_tanh2y.jpg",
-        "https://res.cloudinary.com/didyub2vb/image/upload/v1686111554/pizza-9_qg4sfq.jpg",
-        "https://res.cloudinary.com/didyub2vb/image/upload/v1686112382/pizza-10_rb5lix.jpg"
-      ]
+      "img": {
+       "one": "https://res.cloudinary.com/didyub2vb/image/upload/v1686111554/pizza-7_tanh2y.jpg",
+       "two": "https://res.cloudinary.com/didyub2vb/image/upload/v1686111554/pizza-9_qg4sfq.jpg",
+       "three": "https://res.cloudinary.com/didyub2vb/image/upload/v1686112382/pizza-10_rb5lix.jpg"
+      }
     },
     {
       "id": 4,
       "name": "Frameworks Lovers",
       "price": 159,
-      "img": [
-        "https://res.cloudinary.com/didyub2vb/image/upload/v1686111554/pizza-8_rb5q4j.jpg",
-        "https://res.cloudinary.com/didyub2vb/image/upload/v1686112382/pizza-12_myxofl.jpg",
-        "https://res.cloudinary.com/didyub2vb/image/upload/v1686112382/pizza-11_gz3apm.jpg"
-      ]
+      "img": {
+       "one": "https://res.cloudinary.com/didyub2vb/image/upload/v1686111554/pizza-8_rb5q4j.jpg",
+       "two": "https://res.cloudinary.com/didyub2vb/image/upload/v1686112382/pizza-12_myxofl.jpg",
+       "three": "https://res.cloudinary.com/didyub2vb/image/upload/v1686112382/pizza-11_gz3apm.jpg"
+      }
     }
   ],
   "users": [

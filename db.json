@@ -4,7 +4,41 @@
       "id": 1,
       "name": "Pizza super especial para frontends",
       "price": 99,
-      "img": "https://res.cloudinary.com/didyub2vb/image/upload/v1685737073/fondo-login.jpg"
+      "img": [
+        "https://res.cloudinary.com/didyub2vb/image/upload/v1686108753/pizza-4_sl0ppw.jpg",
+        "https://res.cloudinary.com/didyub2vb/image/upload/v1686108753/pizza-6_miqoze.jpg",
+        "https://res.cloudinary.com/didyub2vb/image/upload/v1686108753/pizza-2_pxksp3.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Javascript + React Pizza",
+      "price": 129,
+      "img": [
+        "https://res.cloudinary.com/didyub2vb/image/upload/v1686108753/pizza-5_tti05n.jpg",
+        "https://res.cloudinary.com/didyub2vb/image/upload/v1685745486/pizza-1.jpg",
+        "https://res.cloudinary.com/didyub2vb/image/upload/v1686108753/pizza-3_qwgusc.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Master CSS Pizza",
+      "price": 89,
+      "img": [
+        "https://res.cloudinary.com/didyub2vb/image/upload/v1686111554/pizza-7_tanh2y.jpg",
+        "https://res.cloudinary.com/didyub2vb/image/upload/v1686111554/pizza-9_qg4sfq.jpg",
+        "https://res.cloudinary.com/didyub2vb/image/upload/v1686112382/pizza-10_rb5lix.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Frameworks Lovers",
+      "price": 159,
+      "img": [
+        "https://res.cloudinary.com/didyub2vb/image/upload/v1686111554/pizza-8_rb5q4j.jpg",
+        "https://res.cloudinary.com/didyub2vb/image/upload/v1686112382/pizza-12_myxofl.jpg",
+        "https://res.cloudinary.com/didyub2vb/image/upload/v1686112382/pizza-11_gz3apm.jpg"
+      ]
     }
   ],
   "users": [
@@ -13,70 +47,80 @@
       "username": "cris123",
       "nickname": "Cris",
       "password": "Password1!",
-      "fullName": "Cristian Cartagena"
+      "fullName": "Cristian Cartagena",
+      "avatar": "https://res.cloudinary.com/didyub2vb/image/upload/v1686111944/persona-8_ambwup.jpg"
     },
     {
       "id": 2,
       "username": "natamr26",
       "nickname": "NataMr",
       "password": "Password2!",
-      "fullName": "Natalia Maldonado"
+      "fullName": "Natalia Maldonado",
+      "avatar": "https://res.cloudinary.com/didyub2vb/image/upload/v1686111944/persona-2_dfqobm.jpg"
     },
     {
       "id": 3,
       "username": "jhonmario",
       "nickname": "Mario",
       "password": "Password3!",
-      "fullName": "Jhon Cartagena"
+      "fullName": "Jhon Cartagena",
+      "avatar": "https://res.cloudinary.com/didyub2vb/image/upload/v1686111945/persona-1_loxkxl.jpg"
     },
     {
       "id": 4,
       "username": "marianto38",
       "nickname": "Marianto",
       "password": "Password4!",
-      "fullName": "Maria Pereira"
+      "fullName": "Maria Pereira",
+      "avatar": "https://res.cloudinary.com/didyub2vb/image/upload/v1686111944/persona-10_gqj6pm.jpg"
     },
     {
       "id": 5,
       "username": "user5",
       "nickname": "Michael",
       "password": "Password5!",
-      "fullName": "Michael Brown"
+      "fullName": "Michael Brown",
+      "avatar": "https://res.cloudinary.com/didyub2vb/image/upload/v1686111945/persona-7_lltbhf.jpg"
     },
     {
       "id": 6,
       "username": "user6",
       "nickname": "Sophia",
       "password": "Password6!",
-      "fullName": "Sophia Wilson"
+      "fullName": "Sophia Wilson",
+      "avatar": "https://res.cloudinary.com/didyub2vb/image/upload/v1686111945/persona-6_xa8rpd.jpg"
     },
     {
       "id": 7,
       "username": "user7",
       "nickname": "Daniel",
       "password": "Password7!",
-      "fullName": "Daniel Taylor"
+      "fullName": "Daniel Taylor",
+      "avatar": "https://res.cloudinary.com/didyub2vb/image/upload/v1686111945/persona-5_ee9wf3.jpg"
     },
     {
       "id": 8,
       "username": "user8",
       "nickname": "Oli",
       "password": "Password8!",
-      "fullName": "Olivia Martinez"
+      "fullName": "Olivia Martinez",
+      "avatar": "https://res.cloudinary.com/didyub2vb/image/upload/v1686111945/persona-4_nluany.jpg"
     },
     {
       "id": 9,
       "username": "user9",
       "nickname": "Liam",
       "password": "Password9!",
-      "fullName": "Liam Anderson"
+      "fullName": "Liam Anderson",
+      "avatar": "https://res.cloudinary.com/didyub2vb/image/upload/v1686111945/persona-3_suogmk.jpg"
     },
     {
       "id": 10,
       "username": "user10",
       "nickname": "Ava",
       "password": "Password10!",
-      "fullName": "Ava Thompson"
+      "fullName": "Ava Thompson",
+      "avatar": "https://res.cloudinary.com/didyub2vb/image/upload/v1686111945/persona-9_fx5q5o.jpg"
     }
   ]
 }

@@ -3,42 +3,83 @@
     {
       "id": 1,
       "name": "Pizza super especial para frontends",
+      "description": "Deliciosa Pizza clásica, con espinaca champiñón, pollo, pimentón verde, cebolla, tomate, aceitunas verdes/negras, tocineta, ajo y albahaca seca.",
+      "type": "Pizza pollo y champiñones",
       "price": 99,
       "img": {
         "one": "https://res.cloudinary.com/didyub2vb/image/upload/v1686108753/pizza-4_sl0ppw.jpg",
         "two": "https://res.cloudinary.com/didyub2vb/image/upload/v1686108753/pizza-6_miqoze.jpg",
         "three": "https://res.cloudinary.com/didyub2vb/image/upload/v1686108753/pizza-2_pxksp3.jpg"
-      }
+      },
+      "reviews": [
+        {
+          "user": "Mario143",
+          "review": "Muy deliciosa, las verduras muy ricas.",
+          "stars": 5,
+          "date": "25/02/2023"
+        }
+      ]
     },
     {
       "id": 2,
       "name": "Javascript + React Pizza",
+      "description": "Deliciosa pizza con Salami, pollo, cabano, pimentón verde y cebolla",
+      "type":"Pizza mexicana",
       "price": 129,
       "img": {
         "one": "https://res.cloudinary.com/didyub2vb/image/upload/v1686108753/pizza-5_tti05n.jpg",
         "two": "https://res.cloudinary.com/didyub2vb/image/upload/v1685745486/pizza-1.jpg",
         "three": "https://res.cloudinary.com/didyub2vb/image/upload/v1686108753/pizza-3_qwgusc.jpg"
-       }
+       },
+       "reviews": [
+        {
+          "user": "Marianto21",
+          "review": "Muy rica, la recomiendo mucho!, pidanla.",
+          "stars": 5,
+          "date": "23/02/2023"
+        }
+      ]
     },
     {
       "id": 3,
       "name": "Master CSS Pizza",
+      "description": "Deliciosa Pizza clásica, con orilla de pan esponjoso. Es un manjar, si estas a punto de enviar cambios a producción un viernes, necesitaras una de ellas.",
+      "type": "Pizza hawaiana",
       "price": 89,
       "img": {
        "one": "https://res.cloudinary.com/didyub2vb/image/upload/v1686111554/pizza-7_tanh2y.jpg",
        "two": "https://res.cloudinary.com/didyub2vb/image/upload/v1686111554/pizza-9_qg4sfq.jpg",
        "three": "https://res.cloudinary.com/didyub2vb/image/upload/v1686112382/pizza-10_rb5lix.jpg"
-      }
+      },
+       "reviews": [
+        {
+          "user": "Nata26",
+          "review": "De las mejores pizzas que he probado, recomendada",
+          "stars": 4,
+          "date": "28/02/2023"
+        }
+      ]
+      
     },
     {
       "id": 4,
       "name": "Frameworks Lovers",
+      "description": "Base de salsa Alfredo, queso mozzarella, carne de res, cebolla al vino, espinaca al óleo, champiñones encurtidos, extra queso mozzarella y queso parmesano.",
+      "type":"Pizza con carne",
       "price": 159,
       "img": {
        "one": "https://res.cloudinary.com/didyub2vb/image/upload/v1686111554/pizza-8_rb5q4j.jpg",
        "two": "https://res.cloudinary.com/didyub2vb/image/upload/v1686112382/pizza-12_myxofl.jpg",
        "three": "https://res.cloudinary.com/didyub2vb/image/upload/v1686112382/pizza-11_gz3apm.jpg"
-      }
+      },
+      "reviews": [
+        {
+          "user": "sophia",
+          "review": "Muy buena mezcla de sabores, ingredientes diferentes.",
+          "stars": 5,
+          "date": "24/02/2023"
+        }
+      ]
     }
   ],
   "users": [

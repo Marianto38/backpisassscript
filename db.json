@@ -15,8 +15,9 @@
         {
           "user": "Mario143",
           "review": "Muy deliciosa, las verduras muy ricas.",
-          "stars": 5,
-          "date": "25/02/2023"
+          "stars": 4.3,
+          "date": "25/02/2023",
+          "avatar": "https://res.cloudinary.com/didyub2vb/image/upload/v1686111944/persona-2_dfqobm.jpg"
         }
       ]
     },
@@ -35,7 +36,7 @@
         {
           "user": "Marianto21",
           "review": "Muy rica, la recomiendo mucho!, pidanla.",
-          "stars": 5,
+          "stars": 4.7,
           "date": "23/02/2023",
           "avatar": "https://res.cloudinary.com/didyub2vb/image/upload/v1686111944/persona-8_ambwup.jpg"
         }
@@ -57,7 +58,8 @@
           "user": "Nata26",
           "review": "De las mejores pizzas que he probado, recomendada",
           "stars": 4,
-          "date": "28/02/2023"
+          "date": "28/02/2023",
+          "avatar": "https://res.cloudinary.com/didyub2vb/image/upload/v1686111945/persona-9_fx5q5o.jpg"
         }
       ]
       
@@ -78,7 +80,8 @@
           "user": "sophia",
           "review": "Muy buena mezcla de sabores, ingredientes diferentes.",
           "stars": 5,
-          "date": "24/02/2023"
+          "date": "24/02/2023",
+            "avatar": "https://res.cloudinary.com/didyub2vb/image/upload/v1686111944/persona-10_gqj6pm.jpg"
         }
       ]
     }
